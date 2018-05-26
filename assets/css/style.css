@@ -153,12 +153,6 @@ footer {
     }
     }
 
-@media screen and (max-width: 640px) {
-header {
-    position: static;
-    width: 100%;
-}
-
 @media screen and (max-width: 768px) {
     header {
         left: 3%;
